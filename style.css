@@ -62,6 +62,7 @@ body {
     width: 920px;
     padding: 15px;
     margin: 0 auto;
+
 }
 
 /** News**/
@@ -171,7 +172,25 @@ footer {
 
 .categories li, a {
     list-style: none;
-    padding-top: 5px;
+    padding-top: 10px;
     text-decoration: none;
     color: #f3bc08;
+}
+
+.categories a {
+    text-decoration: none;
+    padding: 5px 5px;
+    color: #f3bc08;
+ 
+}
+
+.categories a:link {
+    color: #f3bc08;
+}
+
+.categories a:hover {
+    background-color: #f3bc08;
+    color: #ffffff;
+    border: 2px;
+    border-radius: 4px;
 }
