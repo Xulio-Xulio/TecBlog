@@ -121,6 +121,7 @@ body {
 
 .post-l {
     padding-bottom: 10px;
+    padding: 5px 15px 10px  ;
 }
 
 .post-l p {
@@ -167,7 +168,7 @@ footer {
 }
 
 .categories ul {
-    padding: 10px 5px;
+    padding: 5px 15px 5px ;
 }
 
 .categories li, a {
