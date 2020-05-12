@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 
 body {
@@ -20,7 +21,7 @@ body {
 }
 
 #name {
-    color: #4e4e4e;
+    color: #031b6d;
     font-size: 4em;
     padding: 20px;
 }
